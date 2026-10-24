@@ -1,5 +1,7 @@
 # CERT-SCAN
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23608016.svg)](https://doi.org/10.5281/zenodo.23608016)
+
 **Version 1.0 (data accessed 23 October 2026).** Authors: Deborah Wale Ibinayo (ORCID 0009-0002-3571-5981) and Dayo Oladipo (ORCID 0000-0001-7724-2903).
 
 CERT-SCAN is an open, yearly record of whether each U.S. state, the District of Columbia and Puerto Rico require cybersecurity knowledge for drinking water and wastewater operator certification. Every cell cites the law, rule, or agency document behind it.
@@ -54,4 +56,4 @@ The table measures the policy lever, not operator skill or security outcomes. Ro
 
 ## License and citation
 
-Code: MIT. Data and documents: CC BY 4.0. Maintainers: Deborah Wale Ibinayo (Independent Researcher, Lawrenceville, Georgia; corresponding) and Dayo Oladipo (Independent Researcher, Troy, New York). A Zenodo DOI will be added on archiving. Cite using `CITATION.cff`.
+Code: MIT. Data and documents: CC BY 4.0. Maintainers: Deborah Wale Ibinayo (Independent Researcher, Lawrenceville, Georgia; corresponding) and Dayo Oladipo (Independent Researcher, Troy, New York). Archived on Zenodo: v1.0 https://doi.org/10.5281/zenodo.23608016 (all versions: https://doi.org/10.5281/zenodo.23608015). Cite using `CITATION.cff`.
