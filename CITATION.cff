@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use CERT-SCAN, please cite it as below."
+title: "CERT-SCAN: cybersecurity in U.S. drinking water and wastewater operator certification"
+version: "1.0"
+date-released: "[RELEASE DATE PENDING]"
+doi: "[DOI PENDING]"
+license: CC-BY-4.0
+type: dataset
+authors:
+  - family-names: "Ibinayo"
+    given-names: "Deborah Wale"
+    affiliation: "Independent Researcher, Lawrenceville, Georgia, USA"
+    orcid: "0009-0002-3571-5981"
+    email: "deborahwaleibinayo@gmail.com"
+  - family-names: "Oladipo"
+    given-names: "Dayo"
+    affiliation: "Independent Researcher, Troy, New York, USA"
+    orcid: "0000-0001-7724-2903"
+    email: "oladipodayogeorge@gmail.com"
+keywords:
+  - water sector cybersecurity
+  - operator certification
+  - drinking water
+  - wastewater
+  - state regulation
+  - workforce
+abstract: "An open, annually updated record of whether each U.S. state, the District of Columbia and Puerto Rico require, credit, or omit cybersecurity in drinking water and wastewater operator certification, with the citation behind every record."

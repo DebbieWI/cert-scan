@@ -1,0 +1,260 @@
+{
+  "n_jurisdictions": 52,
+  "n_rows": 104,
+  "status_by_program": {
+    "drinking_water": {
+      "no_provision_found": 45,
+      "required": 2,
+      "credited_optional": 4,
+      "general_security_only": 1
+    },
+    "wastewater": {
+      "no_provision_found": 46,
+      "credited_optional": 3,
+      "required": 2,
+      "general_security_only": 1
+    }
+  },
+  "n_jurisdictions_any_required": 2,
+  "jurisdictions_any_required": [
+    "MD",
+    "NY"
+  ],
+  "first_codified_required": [
+    "2025-10-01",
+    "MD",
+    "drinking_water"
+  ],
+  "required_timeline": [
+    [
+      "2025-10-01",
+      "MD",
+      "drinking_water"
+    ],
+    [
+      "2025-10-01",
+      "MD",
+      "wastewater"
+    ],
+    [
+      "2026-03-11",
+      "NY",
+      "drinking_water"
+    ],
+    [
+      "2026-03-26",
+      "NY",
+      "wastewater"
+    ]
+  ],
+  "n_verified_by_author": 12,
+  "confidence": {
+    "medium": 94,
+    "low": 2,
+    "high": 8
+  },
+  "jurisdictions_by_status": {
+    "required": [
+      "MD",
+      "NY"
+    ],
+    "credited_optional": [
+      "MA",
+      "ME",
+      "MI",
+      "MT",
+      "TX"
+    ],
+    "general_security_only": [
+      "PA"
+    ],
+    "unknown": []
+  },
+  "n_jurisdictions_any_provision": 8,
+  "positive_rows": [
+    {
+      "jurisdiction": "Maine",
+      "abbr": "ME",
+      "program": "wastewater",
+      "cyber_status": "credited_optional",
+      "mechanism": "ce_eligible",
+      "hours": "",
+      "cycle_years": "",
+      "effective_date": "2022",
+      "instrument_type": "guidance",
+      "citation": "Maine DEP, TCH Requirements for Certification Renewal v1.3 (2022), Table 1"
+    },
+    {
+      "jurisdiction": "Maryland",
+      "abbr": "MD",
+      "program": "drinking_water",
+      "cyber_status": "required",
+      "mechanism": "new_and_renewal_training",
+      "hours": "0.5",
+      "cycle_years": "3",
+      "effective_date": "2025-10-01",
+      "instrument_type": "statute",
+      "citation": "Md. Code Envir. 9-2702(2) (2025 Md. Laws ch. 495; SB 871)"
+    },
+    {
+      "jurisdiction": "Maryland",
+      "abbr": "MD",
+      "program": "wastewater",
+      "cyber_status": "required",
+      "mechanism": "new_and_renewal_training",
+      "hours": "0.5",
+      "cycle_years": "3",
+      "effective_date": "2025-10-01",
+      "instrument_type": "statute",
+      "citation": "Md. Code Envir. 9-2702(2) (2025 Md. Laws ch. 495; SB 871)"
+    },
+    {
+      "jurisdiction": "Massachusetts",
+      "abbr": "MA",
+      "program": "drinking_water",
+      "cyber_status": "credited_optional",
+      "mechanism": "ce_eligible",
+      "hours": "1-1.5 per course",
+      "cycle_years": "",
+      "effective_date": "2026-03-13",
+      "instrument_type": "board_practice",
+      "citation": "Board TCH approvals DWT-2026-05 and DWT-2026-09 to -13; MassDEP self-paced cybersecurity course (1 TCH)"
+    },
+    {
+      "jurisdiction": "Michigan",
+      "abbr": "MI",
+      "program": "drinking_water",
+      "cyber_status": "credited_optional",
+      "mechanism": "ce_eligible",
+      "hours": "",
+      "cycle_years": "",
+      "effective_date": "2024-06",
+      "instrument_type": "guidance",
+      "citation": "EGLE approved course code 4274 (0.2 technical DW CEC)"
+    },
+    {
+      "jurisdiction": "Michigan",
+      "abbr": "MI",
+      "program": "wastewater",
+      "cyber_status": "credited_optional",
+      "mechanism": "ce_eligible",
+      "hours": "",
+      "cycle_years": "",
+      "effective_date": "2024-06",
+      "instrument_type": "guidance",
+      "citation": "EGLE approved course code 3315 (0.3 managerial WW CEC)"
+    },
+    {
+      "jurisdiction": "Montana",
+      "abbr": "MT",
+      "program": "drinking_water",
+      "cyber_status": "credited_optional",
+      "mechanism": "ce_eligible",
+      "hours": "",
+      "cycle_years": "",
+      "effective_date": "2023-06-08",
+      "instrument_type": "guidance",
+      "citation": "Montana DEQ Continuing Education Credit Guidelines (2023-06-08), sections 3.1 and 5.2"
+    },
+    {
+      "jurisdiction": "Montana",
+      "abbr": "MT",
+      "program": "wastewater",
+      "cyber_status": "credited_optional",
+      "mechanism": "ce_eligible",
+      "hours": "",
+      "cycle_years": "",
+      "effective_date": "2023-06-08",
+      "instrument_type": "guidance",
+      "citation": "Montana DEQ Continuing Education Credit Guidelines (2023-06-08), sections 3.1 and 5.2"
+    },
+    {
+      "jurisdiction": "New York",
+      "abbr": "NY",
+      "program": "drinking_water",
+      "cyber_status": "required",
+      "mechanism": "new_and_renewal_training",
+      "hours": "1",
+      "cycle_years": "3",
+      "effective_date": "2026-03-11",
+      "instrument_type": "regulation",
+      "citation": "10 NYCRR Part 5 Appendix 5-E section 5-E.7"
+    },
+    {
+      "jurisdiction": "New York",
+      "abbr": "NY",
+      "program": "wastewater",
+      "cyber_status": "required",
+      "mechanism": "renewal_mandatory_hours",
+      "hours": "2-4 by grade",
+      "cycle_years": "5",
+      "effective_date": "2026-03-26",
+      "instrument_type": "regulation",
+      "citation": "6 NYCRR 650.8 and 650.12"
+    },
+    {
+      "jurisdiction": "Pennsylvania",
+      "abbr": "PA",
+      "program": "drinking_water",
+      "cyber_status": "general_security_only",
+      "mechanism": "one_time_course",
+      "hours": "3.5",
+      "cycle_years": "one-time",
+      "effective_date": "2010-09-18",
+      "instrument_type": "regulation",
+      "citation": "25 Pa. Code 302.804 (adopted 40 Pa.B. 5294, eff. 2010-09-18)"
+    },
+    {
+      "jurisdiction": "Pennsylvania",
+      "abbr": "PA",
+      "program": "wastewater",
+      "cyber_status": "general_security_only",
+      "mechanism": "one_time_course",
+      "hours": "3.5",
+      "cycle_years": "one-time",
+      "effective_date": "2010-09-18",
+      "instrument_type": "regulation",
+      "citation": "25 Pa. Code 302.804 (adopted 40 Pa.B. 5294, eff. 2010-09-18)"
+    },
+    {
+      "jurisdiction": "Texas",
+      "abbr": "TX",
+      "program": "drinking_water",
+      "cyber_status": "credited_optional",
+      "mechanism": "cyber_optional_within_mandatory_category",
+      "hours": "2 (resiliency)",
+      "cycle_years": "3",
+      "effective_date": "2024-04-01",
+      "instrument_type": "guidance",
+      "citation": "TCEQ RG-637 Resiliency Requirements for Water Operators [VERIFY 30 TAC section]"
+    }
+  ],
+  "n_wpi_dw_treatment": 33,
+  "n_wpi_ww": 34,
+  "n_rows_state_specific_source": 102,
+  "n_rows_primary_text_high": 8,
+  "exam_cyber_by_program": {
+    "drinking_water": {
+      "yes_treatment_only": 33,
+      "not_published": 18,
+      "no": 1
+    },
+    "wastewater": {
+      "no": 34,
+      "not_published": 18
+    }
+  },
+  "epa2016_pages": 131,
+  "epa2016_term_counts": {
+    "cyber": 0,
+    "scada": 1,
+    "security": 1,
+    "computer": 1,
+    "information technology": 0,
+    "operational technology": 0,
+    "network": 0,
+    "hacker": 0,
+    "malware": 0,
+    "ransomware": 0
+  }
+}

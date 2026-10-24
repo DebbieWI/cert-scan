@@ -1,0 +1,20 @@
+# Build by-products
+__pycache__/
+*.pyc
+paper/preprint/*.aux
+paper/preprint/*.log
+paper/preprint/*.out
+paper/preprint/pbi_*.png
+
+# Third-party copyrighted exam outlines: not redistributed.
+# Their URLs and SHA-256 fingerprints are in data/raw/PROVENANCE.txt;
+# re-download them to rebuild the exam figures and table.
+data/raw/exam_ntk/
+
+# Scraped web pages: re-fetched by code/02c_scan_state_sources.py
+data/raw/state_pages/
+data/raw/*.html
+
+# Secrets
+.env
+*token*

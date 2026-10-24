@@ -1,0 +1,35 @@
+{
+  "_comment": "Author block. Every document, citation file, Zenodo record and commit reads from here. Order is author order. Roles use CRediT terms.",
+  "authors": [
+    {
+      "name": "Deborah Wale Ibinayo",
+      "family": "Ibinayo",
+      "given": "Deborah Wale",
+      "orcid": "0009-0002-3571-5981",
+      "email": "deborahwaleibinayo@gmail.com",
+      "affiliation": "Independent Researcher, Lawrenceville, Georgia, USA",
+      "roles": [
+        "Conceptualization",
+        "Methodology",
+        "Data curation",
+        "Investigation",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "corresponding": true
+    },
+    {
+      "name": "Dayo Oladipo",
+      "family": "Oladipo",
+      "given": "Dayo",
+      "orcid": "0000-0001-7724-2903",
+      "email": "oladipodayogeorge@gmail.com",
+      "affiliation": "Independent Researcher, Troy, New York, USA",
+      "roles": [
+        "[ROLES TO BE CONFIRMED]"
+      ],
+      "corresponding": false
+    }
+  ],
+  "collaborators": []
+}

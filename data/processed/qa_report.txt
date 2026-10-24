@@ -1,0 +1,18 @@
+CERT-SCAN QA REPORT (DRAFT)
+
+Rows: 104 (expected 104)
+Problems: 0
+
+Status by program:
+  drinking_water: {'no_provision_found': 45, 'required': 2, 'credited_optional': 4, 'general_security_only': 1}
+  wastewater: {'no_provision_found': 46, 'credited_optional': 3, 'required': 2, 'general_security_only': 1}
+
+Jurisdictions with any codified requirement: ['MD', 'NY']
+Timeline of codified requirements:
+  ('2025-10-01', 'MD', 'drinking_water')
+  ('2025-10-01', 'MD', 'wastewater')
+  ('2026-03-11', 'NY', 'drinking_water')
+  ('2026-03-26', 'NY', 'wastewater')
+
+Spot checks for the author: every 'required' and 'credited_optional' row,
+plus OH and FL (negatives read from primary rule text).
