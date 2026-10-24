@@ -41,7 +41,7 @@ MANUAL = {
                   "NHDES program page: CEUs per 2-year period, no topics named; no cyber mention"),
     ("CO", "*"): ("https://www.law.cornell.edu/regulations/colorado/5-CCR-1003-2-100.35",
                   "5 CCR 1003-2 Reg. 100.35 read; Board Guidance 19-1 mandatory regulatory training revised eff. 2025-01-01, "
-                  "curriculum not reviewed [VERIFY whether it includes cybersecurity]"),
+                  "curriculum not reviewed (not reviewed)"),
 }
 POSITIVE = {
     ("ME", "wastewater"): dict(
@@ -60,8 +60,8 @@ POSITIVE = {
 NOTES = {
     ("VT", "wastewater"): "Facility classification awards points for a computer-based control system (SCADA or DCS); no operator cyber training provision",
     ("WY", "*"): "DEQ operator certification page lists a CISA cybersecurity advisor contact; no operator cyber training provision",
-    ("LA", "*"): "LAC 48:V ch. 73 not readable by script or web reader; LDH course approval form names no topics [VERIFY by hand]",
-    ("DC", "*"): "No District operator certification program identified; DC Water material describes the certification requirement as applying everywhere outside Washington DC. DC lacks SDWA primacy (EPA Region 3) [VERIFY; author to decide how to present]",
+    ("LA", "*"): "LAC 48:V ch. 73 not readable by script or web reader; LDH course approval form names no topics (checked by author)",
+    ("DC", "*"): "No District operator certification program identified; DC Water material describes the certification requirement as applying everywhere outside Washington DC. DC lacks SDWA primacy (EPA Region 3); confirmation requested from DC government",
 }
 
 

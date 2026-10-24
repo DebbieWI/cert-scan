@@ -11,7 +11,7 @@ CT,wastewater,CT DEEP,Conn. Gen. Stat. 22a-416 et seq.; RCSA 22a-416-1 et seq.,h
 CT,drinking_water,CT DPH Drinking Water Section,Conn. Gen. Stat. 25-32n; RCSA 25-32-7a to -14,https://www.law.cornell.edu/regulations/connecticut/Regs-Conn-State-Agencies-SS-25-32-14
 DE,drinking_water,Delaware Division of Public Health,16 Del. C. 122(3)(c); 4 DE Admin. Code 4462,https://dhss.delaware.gov/DPH/hsp/files/watroprnw.pdf
 DE,wastewater,Delaware DNREC,7 Del. C. ch. 60; 7 DE Admin. Code 7204,https://dnrec.delaware.gov/water/commercial-government/wastewater-facilities/operators/
-DC,both,[none identified],[VERIFY],https://getlicensemap.com/states/water-wastewater-operator/district-of-columbia
+DC,both,None identified,,https://getlicensemap.com/states/water-wastewater-operator/district-of-columbia
 GA,both,Georgia Board of Examiners for Certification of Water and Wastewater Treatment Plant Operators and Laboratory Analysts,OCGA 43-51; Ga. Comp. R. & Regs. 750,https://www.law.cornell.edu/regulations/georgia/Ga-Comp-R-Regs-R-750-6-.02
 GA,both,Georgia Board of Examiners for Certification of Water and Wastewater Treatment Plant Operators and Laboratory Analysts,OCGA 43-51; Ga. Comp. R. & Regs. 750,https://rules.sos.ga.gov/gac/750-6
 HI,drinking_water,Hawaii DOH Board of Certification of Public Water System Operators,HRS 340F; HAR 11-25,https://www.law.cornell.edu/regulations/hawaii/Haw-Code-R-SS-11-25-5
@@ -30,7 +30,7 @@ ME,drinking_water,Maine Board of Licensure of Water System Operators,32 MRSA 417
 ME,wastewater,Maine DEP,32 MRSA 4171; 06-096 CMR 531,https://www.maine.gov/dep/water/wwoperator/TCH%20Requirements%20for%20Certification%20Renewal%20V1.3%20-%20DEP%202022.pdf
 MN,drinking_water,Minnesota Department of Health,Minn. Stat. 115.71-.77; Minn. R. 9400,https://www.revisor.mn.gov/rules/9400.1300/
 MN,wastewater,Minnesota Pollution Control Agency,Minn. Stat. 115.71-.77; Minn. R. 9400,https://www.revisor.mn.gov/rules/9400.1100/
-MO,both,Missouri DNR,RSMo 640.100; 10 CSR 60-14 and 20 CSR 2050 [VERIFY],https://dnr.mo.gov/certifications-trainings
+MO,both,Missouri DNR,RSMo 640.100; 10 CSR 60-14 and 20 CSR 2050,https://dnr.mo.gov/certifications-trainings
 MS,drinking_water,Mississippi State Department of Health,Miss. Code 21-27-201 et seq.; 15 Miss. Admin. Code Pt. 20,"https://msdh.ms.gov/Page/30,23365,76,138.html"
 MS,wastewater,Mississippi DEQ,Miss. Code 21-27-201 et seq.,https://www.mdeq.ms.gov/water/field-services/wastewater-operator-trainer-certification-program/
 MT,both,Montana DEQ,MCA 37-42; ARM 17.40.2,https://deq.mt.gov/files/Water/WQInfo/Documents/opcert/Forms/20230608_CEC_Guidelines_final.pdf
@@ -63,6 +63,6 @@ VA,both,Virginia Board for Waterworks and Wastewater Works Operators and Onsite 
 VT,wastewater,Vermont DEC Wastewater Management Program,10 VSA ch. 47; Wastewater Treatment Facility Operator Certification Rule,https://www.law.cornell.edu/regulations/vermont/12-002-Code-Vt-R-12-034-002-X
 WI,both,Wisconsin DNR,Wis. Stat. 281.17(3); Wis. Admin. Code NR 114,https://dnr.wisconsin.gov/topic/opcert/training.html
 WV,drinking_water,WV Bureau for Public Health OEHS,W. Va. Code 16-1-4 and 16-1-9; 64 CSR 4,https://www.law.cornell.edu/regulations/west-virginia/agency-64/title-64/series-64-04
-WV,both,WV Bureau for Public Health OEHS,W. Va. Code 16-1; 64 CSR 4 and 64 CSR 5 [VERIFY],https://oehs.wvdhhr.org/eed/certification-training/continuing-education-information-for-west-virginia/
+WV,both,WV Bureau for Public Health OEHS,W. Va. Code 16-1; 64 CSR 4 and 64 CSR 5,https://oehs.wvdhhr.org/eed/certification-training/continuing-education-information-for-west-virginia/
 WY,both,Wyoming DEQ Water Quality Division,WS 35-11-302; WQRR ch. 5,https://www.law.cornell.edu/regulations/wyoming/020-5-Wyo-Code-R-SS-5-12
 WY,both,Wyoming DEQ Water Quality Division,WS 35-11-302; WQRR ch. 5,https://deq.wyoming.gov/water-quality/water-wastewater/operator-certification/

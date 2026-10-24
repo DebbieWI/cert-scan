@@ -121,7 +121,7 @@ def main():
     STATS.write_text(json.dumps(stats, indent=2))
 
     with open(QA, "w", encoding="utf-8") as f:
-        f.write("CERT-SCAN QA REPORT (DRAFT)\n\n")
+        f.write("CERT-SCAN QA REPORT\n\n")
         f.write(f"Rows: {len(out)} (expected {len(JURIS) * len(PROGRAMS)})\n")
         f.write(f"Problems: {len(problems)}\n")
         for p in problems:

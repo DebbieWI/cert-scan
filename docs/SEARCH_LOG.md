@@ -1,4 +1,4 @@
-# Search log (v1.0 DRAFT, session of 2026-10-23)
+# Search log (v1.0, session of 2026-10-23)
 
 *Plain-language header: every "no provision found" in the table rests on the searches listed here. This file lets anyone repeat them. You only need it if someone asks "how do you know state X has nothing?"*
 

@@ -1,4 +1,4 @@
-# CERT-SCAN Codebook (v1.0 DRAFT)
+# CERT-SCAN Codebook (v1.0)
 
 *Plain-language header: this file defines every column in the CERT-SCAN table and the rules used to fill it in. Open it when you want to know exactly what a cell means. You will need it during verification.*
 

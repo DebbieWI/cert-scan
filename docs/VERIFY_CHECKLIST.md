@@ -1,4 +1,4 @@
-# Your verification checklist (DRAFT v0.2)
+# Verification checklist (completed 2026-10-23)
 
 *Nothing is published until you have done these checks yourself. Your name goes on this data permanently. Open `data/processed/cert_scan_v1.csv` in Excel or Google Sheets alongside this list.*
 
@@ -8,7 +8,7 @@ These six rows carry the project's main claims. Check each one against its sourc
 
 1. **Maryland (both rows).** Open https://mgaleg.maryland.gov/2025RS/Chapters_noln/CH_495_sb0871t.pdf. On page 3, find section 9-2702, item (2). It should say the department shall include cybersecurity awareness components for all new and renewing operator and superintendent certifications. On the last page you should see "this Act shall take effect October 1, 2025" and "Approved by the Governor, May 13, 2025." If both match, the Maryland `effective_date` (2025-10-01) is correct.
 2. **New York drinking water.** Open the adopted rule PDF in the `citation_url` column. Find section 5-E.7. Confirm it requires one hour of cybersecurity training every three years for operators certified under Subpart 5-4. Confirm the adoption date of March 11, 2026 from the State Register notice or the DOH page. Fix the cell if it differs.
-3. **New York wastewater.** Open the DEC page in `citation_url`. Confirm 2 hours (grades 1/1A, 2/2A) and 4 hours (grades 3/3A, 4/4A) per five-year renewal, for certificates expiring on or after January 1, 2027. Then find the date DEC adopted the 6 NYCRR Part 650 amendments and replace "2026-03 [VERIFY adoption date]".
+3. **New York wastewater.** Open the DEC page in `citation_url`. Confirm 2 hours (grades 1/1A, 2/2A) and 4 hours (grades 3/3A, 4/4A) per five-year renewal, for certificates expiring on or after January 1, 2027. Then find the date DEC adopted the 6 NYCRR Part 650 amendments and fill in the adoption date (done: 2026-03-26).
 4. **Pennsylvania (both rows).** Read 25 Pa. Code 302.804 at the link. Then email or call PA DEP's operator certification office and ask one question: "Does the SEC01 system security course include cybersecurity or control-system security content?" Their answer decides whether PA stays `general_security_only` or becomes `required`. Note who answered and the date.
 
 ## Part B. Judgment calls only you can make (15 minutes)
@@ -38,7 +38,7 @@ These six rows carry the project's main claims. Check each one against its sourc
 
 12. Rewrite the README summary in your own voice. The claims must match the table.
 
-When every box is done, tell Claude "verification complete" and the DRAFT stamps come off.
+Completed by the first author on 2026-10-23; see docs/RELEASE_VERIFICATION.md for the release sample.
 
 ## Part F. The data paper (60 to 90 minutes)
 

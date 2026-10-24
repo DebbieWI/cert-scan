@@ -1,4 +1,4 @@
-# Limitations (v1.0 DRAFT)
+# Limitations (v1.0)
 
 *Plain-language header: the honest list of what this table cannot tell you. The paper's discussion section is not allowed to claim anything this file rules out.*
 

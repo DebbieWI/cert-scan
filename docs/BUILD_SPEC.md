@@ -1,4 +1,4 @@
-# Build spec: CERT-SCAN v1.0 (DRAFT)
+# Build spec: CERT-SCAN v1.0
 
 *Plain-language header: this is the one-page plan the whole build follows. If the project changes, this file changes first.*
 

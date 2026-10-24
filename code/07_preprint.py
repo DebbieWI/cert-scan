@@ -92,7 +92,7 @@ def main():
         "authorEmail": a["email"], "authorAffil": a["affiliation"],
         "coName": co["name"], "coOrcid": co["orcid"], "coEmail": co["email"],
         "coRoles": ", ".join(r.lower() for r in co["roles"]),
-        "repoURL": "[GitHub URL assigned at release]", "doiText": "[DOI assigned at release]",
+        "repoURL": "https://github.com/DebbieWI/cert-scan", "nSample": 10,
     }.items():
         m += macro(k, v)
     m += "\\newif\\iffinal\n" + ("\\finaltrue\n" if FINAL else "\\finalfalse\n")

@@ -1,4 +1,4 @@
-CERT-SCAN QA REPORT (DRAFT)
+CERT-SCAN QA REPORT
 
 Rows: 104 (expected 104)
 Problems: 0

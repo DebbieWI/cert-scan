@@ -1,6 +1,6 @@
 # Start Here: CERT-SCAN
 
-*DRAFT. Read this first. It explains your project in plain language. Words in bold are explained in [GLOSSARY.md](GLOSSARY.md).*
+*Read this first. It explains your project in plain language. Words in bold are explained in [GLOSSARY.md](GLOSSARY.md).*
 
 ## What you are building
 

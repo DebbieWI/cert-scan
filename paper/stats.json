@@ -47,11 +47,11 @@
       "wastewater"
     ]
   ],
-  "n_verified_by_author": 12,
+  "n_verified_by_author": 26,
   "confidence": {
-    "medium": 94,
+    "medium": 93,
     "low": 2,
-    "high": 8
+    "high": 9
   },
   "jurisdictions_by_status": {
     "required": [
@@ -226,13 +226,13 @@
       "cycle_years": "3",
       "effective_date": "2024-04-01",
       "instrument_type": "guidance",
-      "citation": "TCEQ RG-637 Resiliency Requirements for Water Operators [VERIFY 30 TAC section]"
+      "citation": "TCEQ RG-637 Resiliency Requirements for Water Operators and Training Providers (30 TAC ch. 30 section not identified)"
     }
   ],
   "n_wpi_dw_treatment": 33,
   "n_wpi_ww": 34,
   "n_rows_state_specific_source": 102,
-  "n_rows_primary_text_high": 8,
+  "n_rows_primary_text_high": 9,
   "exam_cyber_by_program": {
     "drinking_water": {
       "yes_treatment_only": 33,
