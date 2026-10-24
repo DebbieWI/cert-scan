@@ -1,0 +1,37 @@
+{
+  "upload_type": "dataset",
+  "title": "CERT-SCAN: Cybersecurity in U.S. Drinking Water and Wastewater Operator Certification Across 52 Jurisdictions",
+  "version": "1.0",
+  "publication_date": "2026-10-23",
+  "creators": [
+    {
+      "name": "Ibinayo, Deborah Wale",
+      "affiliation": "Independent Researcher, Lawrenceville, Georgia, USA",
+      "orcid": "0009-0002-3571-5981"
+    },
+    {
+      "name": "Oladipo, Dayo",
+      "affiliation": "Independent Researcher, Troy, New York, USA",
+      "orcid": "0000-0001-7724-2903"
+    }
+  ],
+  "description": "<p>CERT-SCAN is an open, structured, and annually maintained record of whether and how all 50 U.S. states, the District of Columbia, and Puerto Rico embed cybersecurity in drinking water and wastewater operator certification, coded separately for each program (104 records), with the statute, regulation, or agency document behind every record.</p><p>As of 23 October 2026, two jurisdictions (Maryland and New York) require cybersecurity training by statute or regulation, five credit it without requiring it, and Pennsylvania requires a one-time general security course. The release also documents that the 2025 Water Professionals International exam outlines for water treatment list a cybersecurity task, while no distribution, wastewater treatment, or collection outline does.</p><p>The release contains the dataset, codebook, source and search logs, provenance log, quality-assurance report, figures, the scripted pipeline, and the accompanying preprint.</p>",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "water sector cybersecurity",
+    "operator certification",
+    "drinking water",
+    "wastewater",
+    "state regulation",
+    "workforce",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/DebbieWI/cert-scan",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Code is licensed MIT; data and documentation CC BY 4.0. Sources accessed 23 October 2026."
+}
